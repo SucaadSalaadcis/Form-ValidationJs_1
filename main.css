@@ -29,9 +29,10 @@ body{
     margin: 50px;
 }
  
-.form{
-    padding: 30px 40px;
+.form {
+    padding: 3px 40px;
 }
+
 .form-control{
     padding-bottom: 5px;
     margin-bottom: 10px;
